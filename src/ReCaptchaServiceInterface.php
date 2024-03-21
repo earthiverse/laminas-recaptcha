@@ -7,7 +7,7 @@ namespace Laminas\ReCaptcha;
 /**
  * An interface for interacting with a recaptcha service provider
  */
-interface RecaptchaServiceInterface
+interface ReCaptchaServiceInterface
 {
     /**
      * Get the options array

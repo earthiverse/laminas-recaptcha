@@ -23,7 +23,7 @@ use const E_USER_WARNING;
  *
  * @final This class should not be extended and will be marked final in version 4.0
  */
-class ReCaptcha implements RecaptchaServiceInterface, Stringable
+class ReCaptcha implements ReCaptchaServiceInterface, Stringable
 {
     /**
      * URI to the API
